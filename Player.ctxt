@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=
+comment1.target=void\ update()
+comment2.params=
+comment2.target=void\ jump()
+comment2.text=\n\ Player\ jumping.\n
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment3.text=\n\ Draw\ player\ which\ is\ image\ icon.\n
+comment4.params=
+comment4.target=boolean\ isOffScreen()
+comment4.text=\n\ Checking\ if\ the\ player\ is\ go\ out\ off\ scrren.\n\ @return\ boolean(true\ or\ flase)\ according\ to\ the\ circumstances.\n
+comment5.params=pipe
+comment5.target=boolean\ isHittingPipe(Pipe)
+comment5.text=\n\ Checking\ if\ player\ hits\ the\ pipe\ or\ not.\n\ @return\ boolean(true\ or\ flase)\ according\ to\ the\ circumstances.\n
+comment6.params=pipe
+comment6.target=boolean\ hasPassedPipe(Pipe)
+comment6.text=\n\ Cheking\ if\ the\ player\ passed\ the\ pipe.\n\ @return\ boolean(true\ or\ flase)\ according\ to\ the\ circumstances.\n
+numComments=7

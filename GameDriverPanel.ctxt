@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameDriverPanel()
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\n\ Overriding\ Paint\ component\ method\ as\ required\ for\ our\ project\n
+comment2.params=
+comment2.target=void\ gameOver()
+comment2.text=\n\ Checking\ is\ the\ game\ is\ over\ or\ not\ and\ set\ up\ high\ score\ earned\ so\ far.\n
+comment3.params=
+comment3.target=void\ gameStart()
+comment3.text=\n\ Checking\ is\ the\ game\ start\ yet.\ If\ start\ then\ start\ the\ procedure.\n
+comment4.params=
+comment4.target=void\ generatePipes()
+comment4.text=\n\ Generating\ pipes.\n
+comment5.params=x
+comment5.target=Pipe\ randomPipe(int)
+comment5.text=\n\ Creating\ random\ mehod\ for\ pipe.\n\ @param\ x.\n\ @return\ Pipe(400\ -\ r.nextInt(150),\ r.nextInt(100)\ +\ 150,\ x);\n
+numComments=6
